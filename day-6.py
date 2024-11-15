@@ -8,6 +8,7 @@ def my_function():
 # calling the created function at top
 my_function()
 
+
 # Indentation: making sure that the code is written correctly in indent
 
 # function block
@@ -19,4 +20,14 @@ def myFunction():
     elif sky == 'cloudy':
         print('grey')
     print('hello')
-print('world')            
+print('world')      
+
+
+# While Loop:
+#   while something_is_true:
+        #Do something repeatedly
+age = 30
+
+while age > 10:
+    age -= 1
+    print('You are getting old')
