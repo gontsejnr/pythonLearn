@@ -5,3 +5,4 @@
 # Day 3: Control Flow and Logical Operators
 # Day 4: Randomization and Python Lists
 # Day 5: For Loops, Range and Code Blocks
+# Day 6: Functions, Code Blocks and While Loops
